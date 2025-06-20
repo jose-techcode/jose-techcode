@@ -1,5 +1,3 @@
-# Olá, eu sou Joseph! Eu sou um entuasista do open source.
-
 # Habilidades tecnológicas:
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
