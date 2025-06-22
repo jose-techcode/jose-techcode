@@ -5,6 +5,7 @@
 
 # Frameworks and Libraries
 
+![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%20-5865F2?logo=discord&logoColor=white&style=for-the-badge)
 
 # Databases
