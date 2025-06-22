@@ -5,13 +5,13 @@
 
 # Frameworks and Libraries
 
-![discord.py](https://img.shields.io/badge/discord.py-v2.0.1-blue?logo=discord&style=for-the-badge)
+![Discord](https://img.shields.io/badge/Discord-%20-5865F2?logo=discord&logoColor=white&style=for-the-badge)
 
 # Databases
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
 
-# Cloud/DevOps
+# Containerization
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
