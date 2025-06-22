@@ -7,7 +7,7 @@
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%20-5865F2?logo=discord&logoColor=white&style=for-the-badge)
-![Aiohttp](https://img.shields.io/badge/Library-aiohttp-brightgreen)
+![aiohttp](https://img.shields.io/badge/aiohttp-async--http-blue)
 
 # Databases
 
