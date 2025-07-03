@@ -8,6 +8,6 @@
 
 # Github Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jose-techcode&show_icons=true&theme=tokyonight&hide_title=true)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=jose-techcode&show_icons=true&theme=graywhite&hide_title=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-techcode&layout=compact&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-techcode&layout=compact&theme=graywhite)
