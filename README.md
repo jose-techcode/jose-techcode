@@ -8,8 +8,8 @@
 
 # Operating Systems/Kernel
 
-![Windows](https://img.shields.io/badge/Windows-🟦-black?logo=windows&style=flat)
-![Linux](https://img.shields.io/badge/Linux-🟢-black?logo=linux&style=flat)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white&style=flat)
 
 # Github Statistics
 
