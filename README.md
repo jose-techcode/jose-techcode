@@ -1,17 +1,10 @@
 # Technologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=plastic&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)
 
 # Operating Systems/Kernel
 
