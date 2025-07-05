@@ -6,10 +6,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# Operating Kernel/Systems
+# Operating Systems/Kernel
 
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white&style=flat)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white&style=flat)
 
 # Github Statistics
 
