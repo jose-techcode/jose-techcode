@@ -1,3 +1,8 @@
+# Github Statistics
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=jose-techcode&show_icons=true&theme=dark&hide_title=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-techcode&layout=compact&theme=dark)
+
 # Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
@@ -10,9 +15,3 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=plastic&logo=linux&logoColor=white)
-
-# Github Statistics
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=jose-techcode&show_icons=true&theme=dark&hide_title=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-techcode&layout=compact&theme=dark)
