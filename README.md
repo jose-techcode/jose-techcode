@@ -12,7 +12,7 @@
 ![SQL](https://img.shields.io/badge/SQL-blue?style=plastic&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=plastic&logo=visualstudiocode)
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=plastic&logo=visualstudiocode)
 
 # Operating Systems/Kernel
 
