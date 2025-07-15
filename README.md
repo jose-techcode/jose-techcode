@@ -4,7 +4,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-techcode&layout=compact&theme=dark&v=2)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jose-techcode&theme=dark&v=2)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jose-techcode&theme=dark&v=1)
 
 # Technologies
 
