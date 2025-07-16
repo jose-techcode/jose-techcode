@@ -4,8 +4,6 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-techcode&layout=compact&theme=dark&v=3)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jose-techcode&theme=dark&v=1)
-
 # Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
