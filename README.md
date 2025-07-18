@@ -7,7 +7,7 @@
 # Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-blue?style=plastic&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-9cf?style=plastic&logo=python&logoColor=blue)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
 ![Echo](https://img.shields.io/badge/Echo-blue?style=plastic&logo=go)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=plastic&logo=gnu-bash&logoColor=white)
