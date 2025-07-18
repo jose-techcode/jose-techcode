@@ -7,12 +7,9 @@
 # Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-9cf?style=plastic&logo=python&logoColor=blue)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
-![Echo](https://img.shields.io/badge/Echo-blue?style=plastic&logo=go)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=plastic&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=plastic&logo=postgresql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-ffcc00?style=plastic&logo=json)
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=plastic&logo=visualstudiocode)
