@@ -2,7 +2,7 @@
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api?username=jose-techcode&show_icons=true&theme=dark&hide_title=true&v=14)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-techcode&layout=compact&theme=dark&v=14)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-techcode&layout=compact&theme=dark&v=15)
 
 # Technologies
 
