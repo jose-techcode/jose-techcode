@@ -14,7 +14,7 @@
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=plastic&logo=visualstudiocode)
 
-# Operating Systems/Kernel
+# Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=plastic&logo=linux&logoColor=white)
