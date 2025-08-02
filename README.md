@@ -5,16 +5,17 @@
 
 # Technologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=plastic&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-blue?style=plastic&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic)
-![Trivy Scan](https://img.shields.io/badge/Trivy-brightgreen?style=plastic)
-![Discloud](https://img.shields.io/badge/Discloud-brightgreen?style=plastic)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=plastic&logo=visualstudiocode)
+![Python](https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/go-1.21-blue?logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-shell4.4-yellow?logo=gnu-bash&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-database-blue?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-branch-red?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-20.10-blue?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-automate-black?logo=github-actions)
+![Trivy](https://img.shields.io/badge/Trivy-security-blue?logo=aquasecurity&logoColor=white)
+![Discloud](https://img.shields.io/badge/Discloud-cloud-lightgrey?logo=heroku&logoColor=purple)
+![VS Code](https://img.shields.io/badge/VS_Code-editor-blue?logo=visual-studio-code&logoColor=white)
+
 
 # Operating Systems
 
