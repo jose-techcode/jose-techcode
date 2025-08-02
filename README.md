@@ -11,7 +11,7 @@
 ![SQL](https://img.shields.io/badge/SQL-blue?style=plastic&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-automate-black?logo=github-actions)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=github-actions)
 ![Trivy](https://img.shields.io/badge/Trivy-security-blue?logo=aquasecurity)
 ![Discloud](https://img.shields.io/badge/Discloud-brightgreen?style=plastic)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=plastic&logo=visualstudiocode)
