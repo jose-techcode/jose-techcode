@@ -12,8 +12,8 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=plastic)
-![Trivy Scan](https://img.shields.io/badge/Trivy-0%20vulnerabilities-brightgreen?style=plastic)
-![Discloud](https://img.shields.io/badge/Discloud-Active-brightgreen?style=plastic)
+![Trivy Scan](https://img.shields.io/badge/Trivy-brightgreen?style=plastic)
+![Discloud](https://img.shields.io/badge/Discloud-brightgreen?style=plastic)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=plastic&logo=visualstudiocode)
 
 # Operating Systems
