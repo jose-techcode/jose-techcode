@@ -12,6 +12,8 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=github-actions)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?style=plastic&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=plastic&logo=ansible&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=plastic)
 
 # Operating Systems
