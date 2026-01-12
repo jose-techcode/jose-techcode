@@ -1,8 +1,3 @@
-# Github Statistics
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jose-techcode&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-techcode&layout=compact&theme=radical)
-
 # Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
