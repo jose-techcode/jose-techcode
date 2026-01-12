@@ -1,7 +1,7 @@
 # Github Statistics
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUÁRIO_GITHUB&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUÁRIO_GITHUB&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jose-techcode&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-techcode&layout=compact&theme=radical)
 
 # Technologies
 
