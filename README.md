@@ -9,7 +9,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=github-actions)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=plastic&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=plastic&logo=ansible&logoColor=white)
-[![VSCodium](https://img.shields.io/badge/VS%20Codium-%230066CC.svg?style=plastic&logo=visual-studio-code)](https://vscodium.com/)
+[![VSCodium](https://img.shields.io/badge/VS%20Codium-%230066CC.svg?style=plastic&logo=visual-studio-code)
 
 # Operating Systems
 
