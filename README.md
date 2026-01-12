@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=plastic&logo=gnu-bash&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-%2338B2B2.svg?style=plastic&logo=shell&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=plastic&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)
@@ -13,7 +13,7 @@
 
 # Operating Systems
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%23000A9D.svg?style=plastic&logo=windows&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B2B.svg?style=plastic&logo=freebsd&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=plastic&logo=linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white)
