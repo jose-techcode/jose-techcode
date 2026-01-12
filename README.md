@@ -13,7 +13,7 @@
 
 # Operating Systems
 
-![Windows](https://img.shields.io/badge/Windows-%23008CBA.svg?style=plastic&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%23008BFF.svg?style=plastic&logo=windows&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B2B.svg?style=plastic&logo=freebsd&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=plastic&logo=linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white)
