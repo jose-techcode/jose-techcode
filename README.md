@@ -9,14 +9,13 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=github-actions)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=plastic&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=plastic&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white)
 ![VSCodium](https://img.shields.io/badge/VS%20Codium-%23008BFF.svg?style=plastic&logo=visual-studio-code)
-
-# Operating Systems
-
-![Windows](https://img.shields.io/badge/Windows-%23008BFF.svg?style=plastic&logo=windows&logoColor=white)
-![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B2B.svg?style=plastic&logo=freebsd&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=plastic&logo=linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=plastic&logo=fedora&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%2300B140.svg?style=plastic&logo=android&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B2B.svg?style=plastic&logo=freebsd&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%23008BFF.svg?style=plastic&logo=windows&logoColor=white)
