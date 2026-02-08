@@ -5,6 +5,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
 ![Echo](https://img.shields.io/badge/Echo-00ADD8?style=plastic&logo=go&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-%234EAA26.svg?style=plastic&logo=gnu-bash&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)
