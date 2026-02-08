@@ -19,7 +19,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white)
 
 # QA
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=plastic&logo=junit5&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=plastic&logo=junit6&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-1C8B36?style=plastic&logo=mockito&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
