@@ -23,7 +23,7 @@
 ![Mockito](https://img.shields.io/badge/Mockito-1C8B36?style=plastic&logo=mockito&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
-# Editors
+# IDEs/Editors
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=plastic&logo=intellijidea&logoColor=white)
 ![VSCodium](https://img.shields.io/badge/VS%20Codium-%23008BFF.svg?style=plastic&logo=visual-studio-code)
 
