@@ -5,7 +5,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)
-![H2](https://img.shields.io/badge/h2database-3AC37D?style=plastic&logo=h2&logoColor=white)
+![H2](https://img.shields.io/badge/h2-h2?logo=h2database&color=%2309476B)
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 
 # Ops
