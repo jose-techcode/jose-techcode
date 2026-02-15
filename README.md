@@ -6,6 +6,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-h2?logo=h2database&color=%2309476B)
+![Kafka](https://img.shields.io/badge/Kafka-kafka?style=plastic&logo=apachekafka&color=%23231F20)
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 
 # Ops
