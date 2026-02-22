@@ -16,6 +16,8 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=plastic&logo=github-actions)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=plastic&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=plastic&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white)
 
 # QA
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=plastic&logo=junit6&logoColor=white)
@@ -38,5 +40,3 @@
 # Studying
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-jenkins?style=plastic&logo=jenkins&logoColor=white&color=%23D24939)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white)
