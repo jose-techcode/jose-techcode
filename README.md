@@ -3,10 +3,13 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=apache-maven&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-hibernate?style=plastic&logo=hibernate&color=%2359666C)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=plastic&logo=junit6&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-1C8B36?style=plastic&logo=mockito&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-h2?logo=h2database&color=%2309476B)
 ![Redis](https://img.shields.io/badge/Redis-redis?style=plastic&logo=redis&logoColor=%23FFFFFF&color=%23FF4438)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-kafka?style=plastic&logo=apachekafka&color=%23231F20)
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 
@@ -19,11 +22,6 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=plastic&logo=ansible&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white)
-
-# QA
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=plastic&logo=junit6&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-1C8B36?style=plastic&logo=mockito&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 # IDEs/Editors
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=plastic&logo=intellijidea&logoColor=white)
