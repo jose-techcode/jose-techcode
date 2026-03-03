@@ -13,7 +13,7 @@
 ![Kafka](https://img.shields.io/badge/Kafka-kafka?style=plastic&logo=apachekafka&color=%23231F20)
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 
-# Ops
+# DevOps
 ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-%234EAA26.svg?style=plastic&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)
@@ -39,3 +39,7 @@
 # Studying
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-jenkins?style=plastic&logo=jenkins&logoColor=white&color=%23D24939)
+
+ # DISCLAIMER
+
+As tecnologias aqui listadas NÃO representam domínio técnico absoluto das mesmas, mas sim o uso delas para a resolução de problemas específicos, bem como aprendizado demonstrado nos repositórios.
