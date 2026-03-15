@@ -6,7 +6,6 @@
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=plastic&logo=junit6&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-1C8B36?style=plastic&logo=mockito&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-thymeleaf?style=plastic&logo=thymeleaf&color=%23005F0F)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-h2?logo=h2database&color=%2309476B)
 ![Redis](https://img.shields.io/badge/Redis-redis?style=plastic&logo=redis&logoColor=%23FFFFFF&color=%23FF4438)
@@ -17,6 +16,7 @@
 # DevOps
 ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-%234EAA26.svg?style=plastic&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=plastic&logo=github-actions)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=plastic&logo=terraform&logoColor=white)
