@@ -1,7 +1,7 @@
 # GitHub Statistics
 
-![Joseph GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-techcode&show_icons=true&layout=compact&bg_color=00000000&width=500&layout=compact) 
-![Joseph Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-techcode&langs_count=20&bg_color=00000000&width=500&layout=compact)
+![Joseph GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-techcode&show_icons=true&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF) 
+![Joseph Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-techcode&langs_count=20&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF)
 
 # Dev
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
