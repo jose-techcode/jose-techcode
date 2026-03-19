@@ -3,6 +3,8 @@
 ![Joseph GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-techcode&show_icons=true&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF) 
 ![Joseph Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-techcode&langs_count=20&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jose-techcode)
+
 # Dev
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=apache-maven&logoColor=white)
