@@ -1,7 +1,7 @@
 # Github Statistics
 
 ![Joseph GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-techcode&show_icons=true&bg_color=00000000)
-![Joseph Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-techcode&layout=compact)
+![Joseph Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-techcode&langs_count=20&bg_color=00000000)
 
 # Dev
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
