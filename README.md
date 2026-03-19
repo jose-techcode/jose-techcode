@@ -1,3 +1,7 @@
+# Github Statistics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?jose-techcode=anuraghazra&show_icons=true&bg_color=00000000)
+
 # Dev
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=plastic&logo=apache-maven&logoColor=white)
