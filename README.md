@@ -1,6 +1,6 @@
 # Github Statistics
 
-![Joseph GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-techcode&show_icons=true&bg_color=00000000)
+![Joseph GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-techcode&show_icons=true&layout=compact&bg_color=00000000)
 ![Joseph Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-techcode&langs_count=20&bg_color=00000000)
 
 # Dev
