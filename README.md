@@ -1,6 +1,6 @@
 # Github Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-techcode&show_icons=true&bg_color=00000000)
+![Joseph GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-techcode&show_icons=true&bg_color=00000000)
 
 # Dev
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
