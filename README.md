@@ -37,10 +37,6 @@
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B2B.svg?style=plastic&logo=freebsd&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-%23008BFF.svg?style=plastic&logo=windows&logoColor=white)
 
-# Studying
-
-![Jenkins](https://img.shields.io/badge/Jenkins-jenkins?style=plastic&logo=jenkins&logoColor=white&color=%23D24939)
-
  # DISCLAIMER
 
 As tecnologias aqui listadas NÃO representam domínio técnico absoluto das mesmas, mas sim o uso delas para a resolução de problemas específicos, bem como aprendizado demonstrado nos repositórios.
