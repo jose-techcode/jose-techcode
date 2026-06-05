@@ -22,7 +22,7 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=plastic&logo=ansible&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-F46800?style=plastic&logo=trivy&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-#1904DA?style=plastic&logo=trivy&logoColor=white)
 
 # IDEs/Editors
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=plastic&logo=intellijidea&logoColor=white)
