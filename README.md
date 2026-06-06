@@ -11,29 +11,30 @@
 ![Kafka](https://img.shields.io/badge/Kafka-kafka?style=plastic&logo=apachekafka&color=%23231F20)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=plastic&logo=intellijidea&logoColor=white)
 
-# DevOps
+# DevOps (main skills)
 ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-%234EAA26.svg?style=plastic&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=plastic&logo=github-actions)
+![GitHub CI](https://img.shields.io/badge/GitHub_CI-black?style=plastic&logo=gitlab)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=plastic&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=plastic&logo=ansible&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white)
+![Grafana Loki](https://img.shields.io/badge/Grafana%20Loki-grafana?style=plastic&logo=grafana&logoColor=white&color=%23F46800)
+![Jaeger](https://img.shields.io/badge/Jaeger-jaeger?style=plastic&logo=jaeger&logoColor=white&color=%2366CFE3)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=plastic&logo=trivy&logoColor=white)
-
-# IDEs/Editors
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=plastic&logo=intellijidea&logoColor=white)
-![Vs Codium](https://img.shields.io/badge/Vs%20Codium-Vs%20Codium?style=plastic&logo=vscodium&logoColor=FFFFFF&color=%232F80ED)
-
-# Operating Systems
+![Vault](https://img.shields.io/badge/Vault-vault?style=plastic&logo=vault&logoColor=white&color=%23FFEC6E)
 ![Linux](https://img.shields.io/badge/Linux-black?style=plastic&logo=linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=plastic&logo=fedora&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-%23008BFF.svg?style=plastic&logo=windows&logoColor=white)
+![Alpine](https://img.shields.io/badge/Alpine-alpine?style=plastic&logo=alpinelinux&logoColor=white&color=%230D597F)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-freebsd?style=plastic&logo=freebsd&logoColor=white&color=%23AB2B28)
 
  # DISCLAIMER
 
