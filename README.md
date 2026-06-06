@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=plastic&logo=intellijidea&logoColor=white)
 
-# DevOps (main skills)
+# DevOps (primary skills)
 ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-%234EAA26.svg?style=plastic&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
@@ -29,13 +29,15 @@
 ![Jaeger](https://img.shields.io/badge/Jaeger-jaeger?style=plastic&logo=jaeger&logoColor=white&color=%2366CFE3)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=plastic&logo=trivy&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-vault?style=plastic&logo=vault&logoColor=white&color=%23FFEC6E)
+![Jenkins](https://img.shields.io/badge/Jenkins-jenkins?style=plastic&logo=jenkins&logoColor=white&color=%23D24939)
 ![Linux](https://img.shields.io/badge/Linux-black?style=plastic&logo=linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=plastic&logo=fedora&logoColor=white)
 ![Alpine](https://img.shields.io/badge/Alpine-alpine?style=plastic&logo=alpinelinux&logoColor=white&color=%230D597F)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-freebsd?style=plastic&logo=freebsd&logoColor=white&color=%23AB2B28)
+![Vs Codium](https://img.shields.io/badge/Vs%20Codium-vs%20codium?style=plastic&logo=vscodium&logoColor=white&color=%232F80ED)
 
  # DISCLAIMER
 
-As tecnologias aqui listadas NÃO representam domínio técnico absoluto das mesmas, mas sim o uso delas para a resolução de problemas específicos, bem como aprendizado demonstrado nos repositórios. Acesse o meu perfil do GitLab para ver as habilidades onde tenho mais domínio e sou mais focado do que algumas aqui citadas.
+As tecnologias aqui listadas NÃO representam domínio técnico absoluto das mesmas, mas sim o uso delas para a resolução de problemas específicos, bem como aprendizado demonstrado nos repositórios. As habilidades com que tenho mais afinidade são as de DevOps. Acesse o meu perfil do GitLab para ver as habilidades onde tenho mais domínio e sou mais focado do que algumas aqui citadas.
