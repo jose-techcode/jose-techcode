@@ -24,8 +24,11 @@
 # Studying
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
-![Vault](https://img.shields.io/badge/Vault-vault?style=plastic&logo=vault&logoColor=white&color=%23FFEC6E)
 ![Jenkins](https://img.shields.io/badge/Jenkins-jenkins?style=plastic&logo=jenkins&logoColor=white&color=%23D24939)
+![Vault](https://img.shields.io/badge/Vault-vault?style=plastic&logo=vault&logoColor=white&color=%23FFEC6E)
+![K3s](https://img.shields.io/badge/K3s-K3s?style=plastic&logo=k3s&logoColor=%23000000&color=%23FFC61C)
+![Helm](https://img.shields.io/badge/Helm-Helm?style=plastic&logo=helm&color=%230F1689)
+![Falco](https://img.shields.io/badge/Falco-Falco?style=plastic&logo=falco&logoColor=%23000000&color=%2300AEC7)
 
 # Dev (secondary skills)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
