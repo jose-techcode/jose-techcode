@@ -47,4 +47,4 @@
 
  # DISCLAIMER
 
-As tecnologias aqui listadas NÃO representam domínio técnico absoluto das mesmas, mas sim o uso delas para a resolução de problemas específicos, bem como aprendizado demonstrado nos repositórios. As habilidades com que tenho mais afinidade são as de DevOps. Acesse o meu perfil do GitLab para ver as habilidades onde tenho mais domínio e sou mais focado.
+As tecnologias aqui listadas NÃO representam domínio técnico absoluto das mesmas, mas sim o uso delas para a resolução de problemas específicos, bem como aprendizado demonstrado nos repositórios. As habilidades com que tenho mais afinidade são as de DevOps. Acesse o meu perfil do GitLab para ver as habilidades onde tenho mais domínio e sou mais focado, principalmente no que diz a respeito de projetos mais sérios e avançados.
