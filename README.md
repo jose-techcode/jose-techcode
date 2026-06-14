@@ -1,6 +1,7 @@
 # DevOps (primary skills)
 ![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-%234EAA26.svg?style=plastic&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white)
@@ -13,6 +14,7 @@
 ![Grafana Loki](https://img.shields.io/badge/Grafana%20Loki-grafana?style=plastic&logo=grafana&logoColor=white&color=%23F46800)
 ![Jaeger](https://img.shields.io/badge/Jaeger-jaeger?style=plastic&logo=jaeger&logoColor=white&color=%2366CFE3)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=plastic&logo=trivy&logoColor=white)
+![Falco](https://img.shields.io/badge/Falco-Falco?style=plastic&logo=falco&logoColor=%23000000&color=%2300AEC7)
 ![Linux](https://img.shields.io/badge/Linux-black?style=plastic&logo=linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
@@ -23,12 +25,10 @@
 
 # Studying
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-jenkins?style=plastic&logo=jenkins&logoColor=white&color=%23D24939)
 ![Vault](https://img.shields.io/badge/Vault-vault?style=plastic&logo=vault&logoColor=white&color=%23FFEC6E)
 ![K3s](https://img.shields.io/badge/K3s-K3s?style=plastic&logo=k3s&logoColor=%23000000&color=%23FFC61C)
 ![Helm](https://img.shields.io/badge/Helm-Helm?style=plastic&logo=helm&color=%230F1689)
-![Falco](https://img.shields.io/badge/Falco-Falco?style=plastic&logo=falco&logoColor=%23000000&color=%2300AEC7)
 
 # Dev (secondary skills)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
